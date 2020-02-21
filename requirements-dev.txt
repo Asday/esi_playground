@@ -1,5 +1,5 @@
 flake8
 pytest
 tox
-watchdog
+watchdog[watchmedo]
 -r requirements.txt
